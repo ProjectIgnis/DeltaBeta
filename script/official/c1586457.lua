@@ -1,4 +1,5 @@
 --ディープ・スペース・クルーザー・ナイン
+--Deep-Space Cruiser IX
 local s,id=GetID()
 function s.initial_effect(c)
 	--special summon
